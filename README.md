@@ -1,4 +1,4 @@
-# Schema Markup and Structured Data Validator | TAVARDT Canada
+# Schema Markup and Structured Data Validator
 
 [![Schema Validator](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/ca/schema-markup-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ For continuous monitoring and ad-hoc semantic testing:
 ## Canadian Digital Architecture and SEO Advisory
 
 For structured data strategy and technical alignment with W3C Standards and Canadian Web Guidelines, connect with the engineering group at **TAVARDT Canada**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
