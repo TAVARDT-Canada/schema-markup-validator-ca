@@ -6,8 +6,6 @@
 
 Structured data audit tool for Canadian organizations, evaluating Schema.org JSON-LD conformance, rich snippets readiness, and semantic clarity.
 
-Developed and maintained by the digital architecture and semantic search team at **TAVARDT**.
-
 ***
 
 ## Semantic Validation Capabilities
@@ -37,15 +35,6 @@ python schema_validator.py example.ca -json
 
 ***
 
-## Web Validation Suite
-
-For continuous monitoring and ad-hoc semantic testing:
-
-* **Official Schema Markup Validator**
-* **TAVARDT Portal**
-
-***
-
 ## Canadian Digital Architecture and SEO Advisory
 
 For structured data strategy and technical alignment with W3C Standards and Canadian Web Guidelines, connect with the engineering group at **TAVARDT**.
@@ -61,7 +50,7 @@ For structured data strategy and technical alignment with W3C Standards and Cana
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
